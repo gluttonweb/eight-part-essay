@@ -1,6 +1,6 @@
 package review;
 
-public class testThread {
+public class TestThread {
 
     public static void main(String[] args) throws InterruptedException {
         Thread.sleep(5000);

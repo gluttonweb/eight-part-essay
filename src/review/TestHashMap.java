@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Hashtable;
 import java.util.concurrent.BrokenBarrierException;
 
-public class testHashMap {
+public class TestHashMap {
 
     public static void main(String[] args) throws InterruptedException, BrokenBarrierException {
         HashMap<Object, Object> hashMap = new HashMap<>();

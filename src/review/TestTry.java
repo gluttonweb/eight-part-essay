@@ -1,6 +1,6 @@
 package review;
 
-public class testTry {
+public class TestTry {
     public static void main(String[] args) throws Exception {
         try {
             System.out.println(1);

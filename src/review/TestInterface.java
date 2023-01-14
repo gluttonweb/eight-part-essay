@@ -1,6 +1,6 @@
 package review;
 
-public interface testInterface {
+public interface TestInterface {
 
     Integer a = 10;
 
